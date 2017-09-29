@@ -1,0 +1,7 @@
+server = "phl-du-cfauto1.devfwh.lan"
+api_protocol = "https"
+enterprise = "Subway"
+user = "maddi_r-adm"
+organization = "Subway"
+git_port = "8989"
+pipeline = "master"
